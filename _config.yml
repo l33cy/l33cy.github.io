@@ -19,7 +19,7 @@ disqus: # add disqus shortname here
 # add your appropriate info here
 author: # your name
 bio:    # your bio
-email:l33cy#protonmail.com
+email:
 email_md5: # md5 hash of your email
 twitter_username:
 github_username:l33cy
