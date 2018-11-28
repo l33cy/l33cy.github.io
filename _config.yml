@@ -1,5 +1,5 @@
 # Site settings
-title: Paper Theme
+title: l33cy's blog
 description: > # this means to ignore newlines until "baseurl:"
   A gentle theme for Jekyll utilising material design.
 baseurl: "/" # the subpath of your site, e.g. /blog/
@@ -19,10 +19,10 @@ disqus: # add disqus shortname here
 # add your appropriate info here
 author: # your name
 bio:    # your bio
-email:
+email:l33cy@protonmail.com
 email_md5: # md5 hash of your email
 twitter_username:
-github_username:
+github_username:l33cy
 
 # Theming options
 # These settings are mandatory.
